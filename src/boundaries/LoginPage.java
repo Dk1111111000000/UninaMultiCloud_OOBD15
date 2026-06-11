@@ -10,7 +10,7 @@ public class LoginPage extends JFrame {
 
 	private static final long serialVersionUID = 1L;
 	private JPanel contentPane;
-
+	int prova;
 	
 	public LoginPage() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -20,5 +20,6 @@ public class LoginPage extends JFrame {
 		setContentPane(contentPane);
 
 	}
-
+	
+	
 }
